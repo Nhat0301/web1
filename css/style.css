@@ -385,7 +385,7 @@ hr {
 }
 
 .social-icon a i:hover {
-  color: #000;
+  color: #b700ff;
 }
 
 .social-links {
@@ -2252,7 +2252,7 @@ input[type="text"] {
 #footer {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   padding: 2em 0;
-  background: #b700ff;
+  background: #000;
 }
 
 #footer .section-title {
