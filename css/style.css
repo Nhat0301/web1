@@ -249,7 +249,7 @@ hr {
 
 .btn-primary {
   background: #b700ff;
-  color: #000;
+  color: #b700ff;
   border: 2px solid #b700ff;
 }
 
@@ -385,7 +385,7 @@ hr {
 }
 
 .social-icon a i:hover {
-  color: #000;
+  color: #b700ff;
 }
 
 .social-links {
@@ -1132,14 +1132,14 @@ hr {
 
 .nav-toggle.dark i {
   position: relative;
-  color: #000;
-  background: #000;
+  color: #b700ff;
+  background: #b700ff;
   transition: all .2s ease-out;
 }
 
 .nav-toggle.dark i::before,
 .nav-toggle.dark i::after {
-  background: #000;
+  background: #b700ff;
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
@@ -1788,7 +1788,7 @@ header .navbar-brand .social-icon a {
   margin-bottom: 40px;
   position: relative;
   padding: 30px 0;
-  background-color: #000;
+  background-color: #b700ff;
   border: 1px solid #b700ff;
   transition: 0.3s;
 }
@@ -1891,7 +1891,7 @@ header .navbar-brand .social-icon a {
 
 .counters {
   padding: 3em 0;
-  background: #000;
+  background: #b700ff;
 }
 
 .counters .heading-section h2 {
@@ -2061,7 +2061,7 @@ header .navbar-brand .social-icon a {
 }
 
 #work .work .desc span a {
-  color: #000;
+  color: #b700ff;
 }
 
 @media screen and (max-width: 768px) {
@@ -2073,7 +2073,7 @@ header .navbar-brand .social-icon a {
     font-size: 28px;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    color: #000;
+    color: #b700ff;
   }
   #work .work .desc span {
     -webkit-transform: translate3d(0, 0, 0);
@@ -2143,7 +2143,7 @@ header .navbar-brand .social-icon a {
   width: 100%;
   padding: 30px;
   float: left;
-  background: #000;
+  background: #b700ff;
   border-bottom: 2px solid #b700ff;
   -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.6);
   -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.6);
@@ -2252,7 +2252,7 @@ input[type="text"] {
 #footer {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   padding: 2em 0;
-  background: #000;
+  background: #b700ff;
 }
 
 #footer .section-title {
