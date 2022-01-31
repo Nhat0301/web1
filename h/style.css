@@ -22,8 +22,8 @@ html,body{
   background: #000;
 }
 .circle{
-  height: 500px;
-  width: 500px;
+  height: 300px;
+  width: 300px;
   border-radius: 50%;
 }
 .outer button, .outer span{
@@ -37,7 +37,7 @@ html,body{
   color: #000;
   outline: none;
   border: none;
-  font-size: 60px;
+  font-size: 37px;
   z-index: 9;
   letter-spacing: 1px;
   text-transform: uppercase;
