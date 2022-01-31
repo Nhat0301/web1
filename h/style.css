@@ -8,6 +8,7 @@ html,body{
   height: 100%;
   place-items: center;
   background: #000;
+  vertical-align: middle;
 }
 .center{
   display: flex;
